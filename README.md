@@ -1,1 +1,2 @@
 # Traffic-Crashes-Resulting-in-Injury
+Led advanced research on injury-related traffic crashes, employing statistical models and geospatial analysis. Analyzed a robust dataset, revealing associations between adverse weather conditions and collision types. Identified peak risk periods, especially on Saturdays and late afternoons. Applied SQL for statistical insights and R for visualizations. Demonstrated strong analytical and research skills for informed safety interventions.
